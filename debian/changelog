@@ -1,11 +1,17 @@
-deepin-icon-theme (2023.04.03+rb2) unstable; urgency=medium
+debian-dde-icon-theme (2023.09.25) unstable; urgency=medium
+
+  * change some icons
+
+ -- gfdgd xi <3025613752@qq.com>  Mon, 25 Sep 2023 22:09:12 +0800
+
+debian-dde-icon-theme (2023.04.03+rb2) unstable; urgency=medium
 
   * add bloom status icons
   * add cursor theme, Vintage ==> vintage
 
  -- chenke <chenke@deepin.org>  Mon, 03 Apr 2023 13:53:18 +0800
 
-deepin-icon-theme (2021.06.09-1) unstable; urgency=medium
+debian-dde-icon-theme (2021.06.09-1) unstable; urgency=medium
 
   * Build for version 2021.06.09.
 
