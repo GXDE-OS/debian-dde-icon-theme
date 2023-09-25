@@ -1,0 +1,12 @@
+deepin-icon-theme (2023.04.03+rb2) unstable; urgency=medium
+
+  * add bloom status icons
+  * add cursor theme, Vintage ==> vintage
+
+ -- chenke <chenke@deepin.org>  Mon, 03 Apr 2023 13:53:18 +0800
+
+deepin-icon-theme (2021.06.09-1) unstable; urgency=medium
+
+  * Build for version 2021.06.09.
+
+ -- Clay Stan <claystan97@gmail.com>  Wed, 18 Aug 2021 14:48:27 +0800
